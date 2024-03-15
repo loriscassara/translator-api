@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-image: url(images/wp8093478.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+}
+
+.navContainer {
+    background-color: white;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.translatedTextContainer {
+    background-color: white;
+    width: 100%;
+    max-width: 500px;
+    min-height: 150px;
+    margin: 0 auto;
+}
+
+.textContainer {
+    background-color: white;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+}
